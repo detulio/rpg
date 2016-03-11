@@ -9,6 +9,9 @@ class Admin extends CI_Controller {
         $this->load->database();
     }
 
+    /*
+     * Popula o grid com os personagens cadastrados
+     */
     public function Grid(){
         $table = "";
         $this->load->model('Lutador');
@@ -20,6 +23,9 @@ class Admin extends CI_Controller {
         return $table;
     }
 
+    /*
+     * Redireciona a ação para a opção correta no crud segundo a resquisição do usuário (A - Alteração Inclusao, E - Exclusão)
+     */
     public function crud_lutador(){
         $dados['erro'] = '';
         if($this->input->get('op') == 'A'){
@@ -35,6 +41,9 @@ class Admin extends CI_Controller {
     }
 
 
+    /*
+     * Método para inclusão de novo Lutador
+     */
     public function NovoLutador(){
         $this->load->model('Lutador');
         if($this->input->post('nome') == ''){
@@ -51,6 +60,9 @@ class Admin extends CI_Controller {
         return false;
     }
 
+    /*
+     * M[etodo para alteração de Lutador
+     */
     public function AlterarLutador(){
         $this->load->model('Lutador');
         if($this->input->post('nome') == ''){
@@ -66,6 +78,9 @@ class Admin extends CI_Controller {
         return false;
     }
 
+    /*
+     * Método para deletar um lutador
+     */
     public function DeletarLutador($id){
         $this->load->model('Lutador');
         $this->Lutador->delLutador($id);

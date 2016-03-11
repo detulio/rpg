@@ -9,6 +9,9 @@ class Login extends CI_Controller {
         $this->load->database();
     }
 
+    /*
+     * Popula os selects com os heróis cadastrados
+     */
     public function index(){
         $data['options_h'] = '';
         $data['options_o'] = '';
@@ -26,6 +29,9 @@ class Login extends CI_Controller {
         $this->load->view('Rpg/Login',$data);
     }
 
+    /*
+     * Testa se o usuário e senha informados são válidos e redireciona para a área de administração
+     */
     public function admin(){
         if(!$this->input->post('login') || !$this->input->post('senha')){
             $data['heading'] = 'Erro';

@@ -2,204 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd0fd869-ad58-4cf8-83e9-d5c4ac1b14db" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\.buildinfo" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\DCO.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_downloads\ELDocs.tmbundle.zip" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_images\appflowchart.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_images\smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\basic.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\ci-icon.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\comment-bright.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\comment-close.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\comment.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\css\badge_only.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\css\citheme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\css\theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\doctools.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\down-pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\down.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\file.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\js\oldtheme.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\js\theme.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\minus.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\plus.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\pygments.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\searchtools.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\underscore.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\up-pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\up.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\_static\websupport.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\changelog.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\contributing\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\database\caching.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\database\call_function.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\database\configuration.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\database\connecting.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\database\db_driver_reference.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\database\examples.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\database\forge.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\database\helpers.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\database\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\database\metadata.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\database\queries.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\database\query_builder.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\database\results.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\database\transactions.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\database\utilities.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\documentation\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\alternative_php.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\ancillary_classes.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\autoloader.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\caching.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\cli.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\common_functions.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\compatibility_functions.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\controllers.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\core_classes.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\creating_drivers.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\creating_libraries.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\credits.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\drivers.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\environments.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\errors.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\helpers.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\hooks.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\libraries.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\managing_apps.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\models.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\profiling.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\requirements.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\reserved_names.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\routing.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\security.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\styleguide.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\urls.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\views.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\general\welcome.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\genindex.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\array_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\captcha_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\cookie_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\date_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\directory_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\download_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\email_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\file_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\form_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\html_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\inflector_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\language_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\number_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\path_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\security_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\smiley_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\string_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\text_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\typography_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\url_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\helpers\xml_helper.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\downloads.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\troubleshooting.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_120.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_130.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_131.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_132.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_133.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_140.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_141.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_150.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_152.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_153.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_154.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_160.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_161.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_162.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_163.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_170.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_171.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_172.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_200.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_201.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_202.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_203.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_210.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_211.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_212.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_213.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_214.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_220.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_221.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_222.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_223.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_300.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_301.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_302.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_303.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_304.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrade_b11.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\installation\upgrading.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\benchmark.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\caching.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\calendar.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\cart.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\config.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\email.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\encrypt.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\encryption.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\file_uploading.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\form_validation.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\ftp.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\image_lib.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\input.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\javascript.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\language.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\loader.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\migration.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\output.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\pagination.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\parser.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\security.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\sessions.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\table.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\trackback.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\typography.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\unit_testing.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\uri.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\user_agent.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\xmlrpc.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\libraries\zip.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\license.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\objects.inv" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\overview\appflow.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\overview\at_a_glance.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\overview\features.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\overview\getting_started.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\overview\goals.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\overview\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\overview\mvc.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\search.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\searchindex.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\tutorial\conclusion.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\tutorial\create_news_items.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\tutorial\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\tutorial\news_section.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp64\www\rpg\user_guide\tutorial\static_pages.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/.htaccess" afterPath="$PROJECT_DIR$/system/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/config.php" afterPath="$PROJECT_DIR$/application/config/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/database.php" afterPath="$PROJECT_DIR$/application/config/database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/routes.php" afterPath="$PROJECT_DIR$/application/config/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/Admin.php" afterPath="$PROJECT_DIR$/application/controllers/Admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/Login.php" afterPath="$PROJECT_DIR$/application/controllers/Login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/js/login.js" afterPath="$PROJECT_DIR$/includes/js/login.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rpg.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -221,63 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Login.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/views/Rpg/Login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.677095">
-              <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="login.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/includes/js/login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-67.34615">
-              <caret line="103" column="40" selection-start-line="103" selection-start-column="40" selection-end-line="103" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.730769">
-              <caret line="21" column="72" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
-              <folding>
-                <marker date="1457636951860" expanded="true" signature="381:402" placeholder="SELECT * FRO..lutador..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Admin.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/controllers/Admin.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-47.73077">
-              <caret line="73" column="41" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Admin.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/Rpg/Admin.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.807692">
-              <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lutador.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/Lutador.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.769231">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state vertical-scroll-proportion="1.3659066">
+              <caret line="137" column="4" selection-start-line="137" selection-start-column="4" selection-end-line="137" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -313,10 +67,10 @@
         <option value="$PROJECT_DIR$/includes/js/admin.js" />
         <option value="$PROJECT_DIR$/application/models/Lutador.php" />
         <option value="$PROJECT_DIR$/application/views/Rpg/Admin.php" />
-        <option value="$PROJECT_DIR$/application/controllers/Admin.php" />
-        <option value="$PROJECT_DIR$/application/controllers/Login.php" />
-        <option value="$PROJECT_DIR$/includes/js/login.js" />
         <option value="$PROJECT_DIR$/application/views/Rpg/Login.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Login.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Admin.php" />
+        <option value="$PROJECT_DIR$/includes/js/login.js" />
       </list>
     </option>
   </component>
@@ -339,7 +93,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -365,7 +119,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -488,9 +242,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rpg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rpg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -554,7 +326,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -562,7 +334,6 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -573,6 +344,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -601,12 +373,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/includes/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="103" column="40" selection-start-line="103" selection-start-column="40" selection-end-line="103" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="72" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
+          <folding>
+            <marker date="1457694969350" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..lutador..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="41" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Rpg/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Lutador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Rpg/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <marker date="1457636951860" expanded="true" signature="381:402" placeholder="SELECT * FRO..lutador..." />
+            <marker date="1457694969350" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..lutador..." />
           </folding>
         </state>
       </provider>
@@ -615,7 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="138" column="1" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -623,7 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,7 +451,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.018994413">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,7 +458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4178771">
           <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,7 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -655,7 +472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.346153">
           <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -663,7 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.389944">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,7 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="137.53847">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -679,7 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,7 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-30.5">
           <caret line="54" column="13" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,7 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,7 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-25.5">
           <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-28.538462">
           <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,56 +528,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/Lutador.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.769231">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/Admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-47.73077">
-          <caret line="73" column="41" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/Rpg/Admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.807692">
+        <state vertical-scroll-proportion="0.0">
           <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.730769">
-          <caret line="21" column="72" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
-          <folding>
-            <marker date="1457636951860" expanded="true" signature="381:402" placeholder="SELECT * FRO..lutador..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/js/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-67.34615">
-          <caret line="103" column="40" selection-start-line="103" selection-start-column="40" selection-end-line="103" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/Rpg/Login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.677095">
+        <state vertical-scroll-proportion="-23.307692">
           <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.923077">
+          <caret line="32" column="99" selection-start-line="32" selection-start-column="99" selection-end-line="32" selection-end-column="99" />
+          <folding>
+            <marker date="1457694969350" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..lutador..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37318435">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3659066">
+          <caret line="137" column="4" selection-start-line="137" selection-start-column="4" selection-end-line="137" selection-end-column="4" />
           <folding />
         </state>
       </provider>

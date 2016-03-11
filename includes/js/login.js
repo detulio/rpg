@@ -7,14 +7,23 @@ $(document).ready(function(){
     var ordem = [];
     var fim = true;
 
+    /*
+    inclui mensagem no elemento
+     */
     function Mensagem(texto){
         $(".alert-info").append(texto);
     }
 
+    /*
+    Cria numeração randomica de acordo com a faces do dado
+     */
     function Rolardados(faces){
         return Math.floor((Math.random() * faces) + 1);
     }
 
+    /*
+    Calcula a Iniciativa entre humano e orc e retorna a ordem em um array [0 - humano 1-orc]
+     */
     function Iniciativa(){
 
         var rol_h = 0;
@@ -37,6 +46,9 @@ $(document).ready(function(){
         Mensagem('Empatou ('+rol_h+' = '+rol_o+')<br>');
     }
 
+    /*
+    Rotina que inicia a batalha
+     */
     function InicializaBatalha(){
         fim = true;
         nm_humano = '';
@@ -61,6 +73,9 @@ $(document).ready(function(){
 
     }
 
+    /*
+    Calcula se o atacante obteve exito ao tentar o ataque
+     */
     function CalculaAcerto(atacante){
         ac = 0;
         def = 0
@@ -91,6 +106,9 @@ $(document).ready(function(){
 
     }
 
+    /*
+    Calcula o dano do atacante e subtrai dos pontos de vida
+     */
     function CalculaDano(atacante){
         dano = 0;
         if(atacante == 0){
@@ -117,6 +135,7 @@ $(document).ready(function(){
         }
     }
 
+    
     $("#btnLuta").click(function(){
         InicializaBatalha();
     });
